@@ -1,4 +1,4 @@
-// App.js 
+// App.js naima gul (mad assignment 03)
 import React, { useState, useEffect } from 'react';
 import {
   Text,
